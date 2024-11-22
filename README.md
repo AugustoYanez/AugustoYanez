@@ -8,9 +8,7 @@ Here are some ideas to get you started:
 
 
 
-### Redes
-
-[<img align="left" alt="nasreekar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/augustoyanez)
+### Linkedin
 [<img align="left" alt="nasreekar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/augustoyañez/)
 
 <br/>
