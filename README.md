@@ -1,4 +1,4 @@
-### Augusto Yañez 👋
+### Augusto Yañez 
 
 <!--
 **nasreekar/nasreekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
